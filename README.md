@@ -6,7 +6,7 @@
   <!--site title, what you see in your tab-->
  <title>IMU AV Wiki</title>
 <!--change the "wikitable" in "wikitable.css" to what your css file is named-->
- <link href="wikitable.css" rel="stylesheet" type="text/css" media="all">
+ <link href="stylesheet" rel="stylesheet" type="text/css" media="all">
  
 </head>
 <!--wrapper-->
